@@ -1,11 +1,14 @@
 [
   {
     "name": "StarWSGGGDPS",
-    "link": "https://starwsgggdps.com/",
+    "link": "https://starwsgggdps.com/dashboard/",
     "author": "SPMaiMai",
     "authorLink": "https://www.youtube.com/@StarWSGG_GD",
-    "id": "starwsgggdps",
+    "id": "",
     "endpoint": "https://starwsgggdps.com/",
+    "timestampSuffix": " ago",
+    "demonList": "https://starwsgggdps.com/dashboard/stats/listsTable.php",
+    "downloadsDisabled": true,
     "pinned": true
   },
   {
