@@ -1,11 +1,11 @@
 [
   {
-    "name": "StarWSGG GDPS",
-    "link": "https://starwsgggdps.com",
-    "author": "StarWSGG",
+    "name": "StarWSGGGDPS",
+    "link": "https://starwsgggdps.com/",
+    "author": "SPMaiMai",
     "authorLink": "https://www.youtube.com/@StarWSGG_GD",
-    "id": "starwsgg",
-    "endpoint": "https://starwsgggdps.com/database/",
+    "id": "starwsgggdps",
+    "endpoint": "https://starwsgggdps.com/",
     "pinned": true
   },
   {
